@@ -5,6 +5,15 @@ The project focuses on understanding different customer realities to support **i
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live project here:  
+[Live Demo](https://sameer-kumar522.github.io/react-customer-segmentation-ui/)
+
+
+
+---
+
 ## ✨ Features
 
 * Horizontally scrollable customer cards
